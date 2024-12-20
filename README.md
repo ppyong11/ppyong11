@@ -1,16 +1,11 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:EECDA3,100:ff8fbf&text=Welcome%20to%20Ahyeon's%20GitHub!%20&fontSize=45&fontColor=FFFFFF&animation=twinkling)
+<hr>
+<div align=center> 
+<h3>🍀 About Me 🍀 </h3>
+![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<!--
-**ppyong11/ppyong11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Interest 👀</h3>
+- 흥미1
+- 흥미2
+https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+</div>
