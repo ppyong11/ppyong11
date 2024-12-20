@@ -2,10 +2,7 @@
 <hr>
 <div align=center> 
 <h3>🍀 About Me 🍀 </h3>
-![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<h3>Interest 👀</h3>
-- 흥미1
-- 흥미2
-https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppyong11&count_bg=%23B6E498&title_bg=%23436246&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
