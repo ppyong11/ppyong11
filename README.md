@@ -2,11 +2,8 @@
 <hr>
 <div align=center> 
 <h3>🍀 About Me 🍀 </h3>
-  <a href= "https://cooing-caraway-2f1.notion.site/162516e994b3804caa27c3648f3bf6a2?pvs=4">
+  <a href= "https://cooing-caraway-2f1.notion.site/1e6516e994b3801a9878c6242a5dbadb?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-  </a>
-  <a href= "https://velog.io/@aaah11/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white">
   </a><br>
   <h3>💻 Teck Stack 💻</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -22,11 +19,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <hr>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppyong11&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppyong11&count_bg=%23B6E498&title_bg=%23436246&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcqqe113)](https://solved.ac/zxcqqe113/)
-</div>
